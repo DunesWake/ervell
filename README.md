@@ -1,3 +1,5 @@
+Forked version of are.nas front end with the intent to add text features focused on enhancing poet functionality.
+
 # Ervell
 
 Front-end Are.na client, built using Artsy's [Ezel](https://github.com/artsy/ezel). Also, made possible by Artsy's very generous decision to open source their front-end client. Many patterns (also bits of code, probably) adopted from [Force](https://github.com/artsy/force-public). Thanks y'all.
